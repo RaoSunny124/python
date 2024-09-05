@@ -74,3 +74,4 @@ print(temperature)
 
 poem = "I love to talk\nbut I tie my words\nto my tongue\na little too often\nand they tend to\nend up\nin my poems\ninstead."
 print(poem)
+print(poem)
